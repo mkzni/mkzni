@@ -7,7 +7,7 @@ Here you can find samples of my work as a Technical Writer.
 
 **Important:** This repository is currently under construction. If you can't find any samples of my work yet, feel free to ask them in private.
 
-You can find me on my [Linkedin](https://www.linkedin.com/in/mzni/).
+You can find me on my [LinkedIn](https://www.linkedin.com/in/mzni/).
 
 My [Behance](https://www.behance.net/micaellamazoni) has some of my UX Writing work.
 
