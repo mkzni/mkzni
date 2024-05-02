@@ -1,5 +1,5 @@
 # About me
-Hello! I'm Micaella, or just Mika. My pronouns are she/her.
+Hello! I'm Micaella, or just Mika.
 
 My work ranges from UX Writing, and UX Technical Writing to Technical Writing. I'm also a translator (Portuguese and English) and a localisation specialist.
 
