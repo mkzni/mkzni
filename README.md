@@ -9,6 +9,8 @@ Here you can find samples of my work as a Technical Writer.
 
 You can find me on my [Linkedin](https://www.linkedin.com/in/mzni/).
 
+My [Behance](https://www.behance.net/micaellamazoni) has some of my UX Writing work.
+
 I hope you're having a good day. ✨
 
 <!---
